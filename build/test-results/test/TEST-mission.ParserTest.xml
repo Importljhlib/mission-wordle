@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mission.ParserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-31T12:44:46" hostname="baghogeon-ui-MacBookPro.local" time="0.005">
+  <properties/>
+  <testcase name="jamoTest()" classname="mission.ParserTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
